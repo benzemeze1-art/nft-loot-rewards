@@ -1,2 +1,5 @@
-# nft-loot-rewards
-NFT reward distribution based on random draw
+# NFT Loot Rewards
+
+Distribute NFT rewards randomly to users.
+
+**Keywords:** crypto blockchain web3 solidity nft
